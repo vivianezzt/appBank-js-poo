@@ -69,18 +69,29 @@ Este projeto é uma aplicação em JavaScript que simula o funcionamento de um b
 ## estrutura do projeto
 ### bank-simulation/
 │
-├── src/
+├── src/ 
+|   
 │   ├── Deposit.js
+|   
 │   ├── Transfer.js
+|
 │   ├── Loan.js
+|
 │   ├── Installment.js
+|
 │   ├── Account.js
+|
 │   ├── User.js
+|
 │   └── App.js
+|
 │
 ├── index.js
+|
 ├── README.md
+|
 └── package.json
+
 
 
 
