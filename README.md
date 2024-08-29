@@ -83,8 +83,5 @@ Este projeto é uma aplicação em JavaScript que simula o funcionamento de um b
 └── package.json
 
 
-1. **Clonar o Repositório**
-   ```bash
-   git clone https://github.com/usuario/nome-do-repositorio.git
-# appBank-js-poo
-# appBank-js-poo
+
+
